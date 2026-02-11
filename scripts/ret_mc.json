@@ -1,0 +1,59 @@
+[
+  {
+    "video": "/mnt/sh/mmvision/data/video/public/videomme/data/fFjv93ACGo8.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nSelect the best answer to the following multiplechoice question based on the video.\nWhen demonstrating the Germany modern Christmas tree is initially decorated with apples, candles and berries, which kind of the decoration has the largest number?\nA. Apples.\nB. Candles.\nC. Berries.\nD. The three kinds are of the same number.\nPlease respond with only the letter of the correct answer."
+      },
+      {
+        "from": "gpt",
+        "value": "C"
+      }
+    ],
+    "audio": "/mnt/sh/mmvision/data/video/public/videomme/audio/fFjv93ACGo8.wav",
+    "neg_text": [
+      "A",
+      "B",
+      "D"
+    ]
+  },
+  {
+    "video": "/mnt/sh/mmvision/data/video/public/videomme/data/fFjv93ACGo8.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nSelect the best answer to the following multiplechoice question based on the video.\nWhat is the genre of this video?\nA. It is a news report that introduces the history behind Christmas decorations.\nB. It is a documentary on the evolution of Christmas holiday recipes.\nC. It is a travel vlog exploring Christmas markets around the world.\nD. It is a tutorial on DIY Christmas ornament crafting.\nPlease respond with only the letter of the correct answer."
+      },
+      {
+        "from": "gpt",
+        "value": "A"
+      }
+    ],
+    "audio": "/mnt/sh/mmvision/data/video/public/videomme/audio/fFjv93ACGo8.wav",
+    "neg_text": [
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "video": "/mnt/sh/mmvision/data/video/public/videomme/data/fFjv93ACGo8.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nSelect the best answer to the following multiplechoice question based on the video.\nHow many red socks are above the fireplace at the end of this video?\nA. 1.\nB. 4.\nC. 2.\nD. 3.\nPlease respond with only the letter of the correct answer."
+      },
+      {
+        "from": "gpt",
+        "value": "D"
+      }
+    ],
+    "audio": "/mnt/sh/mmvision/data/video/public/videomme/audio/fFjv93ACGo8.wav",
+    "neg_text": [
+      "A",
+      "B",
+      "C"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "video": "/mnt/sh/mmvision/data/videollm/vlm_emb/opensource/MMEB-V2/video-tasks/raw_videos/MSRVTT/video7020.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe the video."
+      },
+      {
+        "from": "gpt",
+        "value": "a woman creating a fondant baby and flower"
+      }
+    ],
+    "audio": "/mnt/sh/mmvision/data/videollm/vlm_emb/opensource/MMEB-V2/video-tasks/raw_videos/MSRVTT_audio/video7020.wav"
+  },
+  {
+    "video": "/mnt/sh/mmvision/data/videollm/vlm_emb/opensource/MMEB-V2/video-tasks/raw_videos/MSRVTT/video7021.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe the video."
+      },
+      {
+        "from": "gpt",
+        "value": "baseball player hits ball"
+      }
+    ],
+    "audio": "/mnt/sh/mmvision/data/videollm/vlm_emb/opensource/MMEB-V2/video-tasks/raw_videos/MSRVTT_audio/video7021.wav"
+  },
+  {
+    "video": "/mnt/sh/mmvision/data/videollm/vlm_emb/opensource/MMEB-V2/video-tasks/raw_videos/MSRVTT/video7024.mp4",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe the video."
+      },
+      {
+        "from": "gpt",
+        "value": "little pet shop cat getting a bath and washed with little brush"
+      }
+    ],
+    "audio": "/mnt/sh/mmvision/data/videollm/vlm_emb/opensource/MMEB-V2/video-tasks/raw_videos/MSRVTT_audio/video7024.wav"
+  }
+]

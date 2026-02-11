@@ -1,0 +1,68 @@
+[
+  {
+    "audio": "/mnt/sh/mmvision/data/audio/avllm/musiccaps/CLAPv2/wav16k/b8okzVltB5Q.wav",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe the audio."
+      },
+      {
+        "from": "gpt",
+        "value": ""
+      }
+    ],
+    "pos_image": {
+      "video": "/mnt/sh/mmvision/data/audio/nj_csp/audioset/all/5Q/b8okzVltB5Q.mp4",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "<video>\nPlease describe the video."
+        }
+      ]
+    }
+  },
+  {
+    "audio": "/mnt/sh/mmvision/data/audio/avllm/musiccaps/CLAPv2/wav16k/b9rgWct9ivI.wav",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe the audio."
+      },
+      {
+        "from": "gpt",
+        "value": ""
+      }
+    ],
+    "pos_image": {
+      "video": "/mnt/sh/mmvision/data/audio/nj_csp/audioset/all/vI/b9rgWct9ivI.mp4",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "<video>\nPlease describe the video."
+        }
+      ]
+    }
+  },
+  {
+    "audio": "/mnt/sh/mmvision/data/audio/avllm/musiccaps/CLAPv2/wav16k/b9yT3nGcD_I.wav",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nPlease describe the audio."
+      },
+      {
+        "from": "gpt",
+        "value": ""
+      }
+    ],
+    "pos_image": {
+      "video": "/mnt/sh/mmvision/data/audio/nj_csp/audioset/all/_I/b9yT3nGcD_I.mp4",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "<video>\nPlease describe the video."
+        }
+      ]
+    }
+  }
+]
