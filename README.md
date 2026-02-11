@@ -39,7 +39,6 @@ Unlike previous methods that use separate encoders, WAVE is built upon **Qwen2.5
 3.  **SOTA Performance:** WAVE achieves state-of-the-art results on the **MMEB-v2-video** benchmark and excels in audio/audio-visual retrieval tasks.
 
 <div align="center">
-  <!-- 请在仓库的 assets 文件夹中放入论文的 Figure 1 -->
   <img src="assets/wave.jpg" width="90%" alt="WAVE Architecture"/>
   <br>
   <em>Overview of WAVE Architecture. It supports text-only, visual-only, audio-only, and audio-visual inputs.</em>
@@ -59,7 +58,7 @@ WAVE achieves SOTA performance on MMEB-v2-video, outperforming industrial-grade 
 | Seed-1.6-Embedding | 55.3 | 55.0 | 60.9 | 51.3 | **53.5** |
 | **WAVE 7B (Ours)** | **59.9** | **57.8** | **72.5** | **54.7** | 50.8 |
 
-WAVE also demonstrate strong performance across audio and audio-visual modalities.
+WAVE also demonstrates strong performance across audio and audio-visual modalities.
 
 | **Dataset** | **AudioCaps** | **Clotho** | **MMAU** | **MMAR** | **VGGSound** | **MusicCaps** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
