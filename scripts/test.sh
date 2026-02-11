@@ -137,7 +137,7 @@ for i in $(seq 0 $((GPU_NUM - 1))); do
             --classify_type $CLASSIFY_TYPE \
             --pred_embeds $PRED_EMBEDS \
             --use_beats $USE_BEATS \
-            --beats_only $BEATS_ONLY # &
+            --beats_only $BEATS_ONLY &
 done
 
 wait
