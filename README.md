@@ -89,12 +89,13 @@ We provide the model checkpoint on Hugging Face.
 
 To evaluate WAVE on your own datasets or benchmarks, follow these steps:
 
-1.  **Data Preparation**: Organize your data into the sample JSON format. Refer to the templates provided in the `scripts/` directory, such as:
+1.  **Download Models**: including the [WAVE checkpoint](https://huggingface.co/tsinghua-ee/WAVE-7B) and the [BEATs checkpoint](https://1drv.ms/u/s!AqeByhGUtINrgcpj8ujXH1YUtxooEg?e=E9Ncea). Modify the path in `train_qwen.py`: https://github.com/TCL606/WAVE/blob/main/qwenvl/train/train_qwen.py#L184, https://github.com/TCL606/WAVE/blob/main/qwenvl/train/train_qwen.py#L269
+2.  **Data Preparation**: Organize your data into the sample JSON format. Refer to the templates provided in the `scripts/` directory, such as:
     *   `scripts/ret_av2t.json` (video/audio to text retrieval)
     *   `scripts/ret_mc.json` (QA)
     *   `scripts/ret_v2a.json` (audio-visual retrieval)
 
-2.  **Inference**: Modify `scripts/direct_test.sh`, then run the script:
+3.  **Inference**: Modify `scripts/direct_test.sh`, then run the script:
     ```bash
     bash scripts/direct_test.sh
     ```
